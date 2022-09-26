@@ -1,0 +1,126 @@
+{
+  "stats": {
+    "suites": 3,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2022-09-26T20:20:51.955Z",
+    "end": "2022-09-26T20:20:51.984Z",
+    "duration": 29
+  },
+  "tests": [
+    {
+      "title": "has a <h1> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 6,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h2> element with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <h3> elements with the correct content",
+      "fullTitle": "index.html the content section has three <h3> elements with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <p> elements with the correct content",
+      "fullTitle": "index.html the content section has three <p> elements with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <img> elements with the correct attributes",
+      "fullTitle": "index.html the content section has three <img> elements with the correct attributes",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has two <a> elements with the correct attributes",
+      "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a <h1> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h1> element with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 6,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has a <h2> element with the correct content",
+      "fullTitle": "index.html the wrapper section has a <h2> element with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <h3> elements with the correct content",
+      "fullTitle": "index.html the content section has three <h3> elements with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <p> elements with the correct content",
+      "fullTitle": "index.html the content section has three <p> elements with the correct content",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has three <img> elements with the correct attributes",
+      "fullTitle": "index.html the content section has three <img> elements with the correct attributes",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 4,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "has two <a> elements with the correct attributes",
+      "fullTitle": "index.html the content section has two <a> elements with the correct attributes",
+      "file": "C:\\Users\\Sohail\\Desktop\\New folder (8)\\phase-0-html-riyadh-blog-lab\\test\\index.html.test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
